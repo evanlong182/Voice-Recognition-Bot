@@ -3,6 +3,12 @@
 
 # Ignore this shit
 links/
+node_modules/
+secret/
+
+
+# txt files to ignore
+togetthisworkinggoodlinks.txt
 
 # Log file
 *.log
