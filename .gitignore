@@ -2,7 +2,7 @@
 *.class
 
 # Ignore this shit
-*.links/
+links/
 
 # Log file
 *.log
