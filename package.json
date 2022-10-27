@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "discord.js": "^14.6.0",
+    "dotenv": "^16.0.3",
+    "java": "^0.12.2"
+  },
+  "name": "voice-recognition-bot",
+  "description": "Little bot for discord that will recognize your voice and do commands based off your voice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanlong182/Voice-Recognition-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evanlong182/Voice-Recognition-Bot/issues"
+  },
+  "homepage": "https://github.com/evanlong182/Voice-Recognition-Bot#readme"
+}
