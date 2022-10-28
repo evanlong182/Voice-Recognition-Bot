@@ -10,10 +10,11 @@ npm install -g yarn
 make a config.json
 # 4
 in config.json put in your clientId, discord api token (bot token), guildId, authorId should look like this
+```
 {
     "discordApiToken": "",
     "clientId": "",
     "authorid": "",
     "guildId": ""
 }
- 
+``` 
