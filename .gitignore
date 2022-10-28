@@ -5,10 +5,13 @@
 links/
 node_modules/
 secret/
+build/
+
 
 
 # txt files to ignore
 togetthisworkinggoodlinks.txt
+yarn.lock
 
 # Log file
 *.log

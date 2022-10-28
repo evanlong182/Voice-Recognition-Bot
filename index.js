@@ -1,8 +1,4 @@
-const java = require('java')
-//const Discord = require('discord.js')
 const config = require('./secret/config.json')
-//const dontlook = require('./secret/dontlook.java')
-//require('dotenv').config();
 const { Client, Collection ,GatewayIntentBits, Events} = require('discord.js');
 const fs = require('node:fs');
 const path = require('node:path');
