@@ -16,3 +16,4 @@ in config.json put in your clientId, discord api token (bot token), guildId, aut
     "authorid": "",
     "guildId": ""
 }
+ 
